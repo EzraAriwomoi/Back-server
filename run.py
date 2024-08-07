@@ -23,4 +23,4 @@ app.config['CONFIRMATION_URL'] = os.getenv('CONFIRMATION_URL')
 app.config['VALIDATION_URL'] = os.getenv('VALIDATION_URL')
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8000)
+    app.run(debug=True)
