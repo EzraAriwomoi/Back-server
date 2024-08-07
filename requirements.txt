@@ -15,4 +15,4 @@ email-validator
 python-dotenv
 flask_script
 firebase-admin
-flask_cors
+flask-cors
