@@ -16,3 +16,4 @@ python-dotenv
 flask_script
 firebase-admin
 flask-cors
+gunicorn==22.0.0
